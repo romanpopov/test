@@ -1,0 +1,14 @@
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csproj.CoreCompileInputs.cache
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorAssemblyInfo.cache
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorAssemblyInfo.cs
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfoInputs.cache
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfo.cs
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.deps.json
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.json
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.dev.json
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.dll
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorTargetAssemblyInfo.cache
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.pdb
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.dll
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.pdb
+D:\Sources\Home\ShoesOnContainers\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csprojAssemblyReference.cache

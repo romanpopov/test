@@ -1,0 +1,14 @@
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\bin\Debug\netcoreapp2.1\CartApi.deps.json
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\bin\Debug\netcoreapp2.1\CartApi.runtimeconfig.json
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\bin\Debug\netcoreapp2.1\CartApi.runtimeconfig.dev.json
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\bin\Debug\netcoreapp2.1\CartApi.dll
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\obj\Debug\netcoreapp2.1\CartApi.csprojAssemblyReference.cache
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\obj\Debug\netcoreapp2.1\CartApi.csproj.CoreCompileInputs.cache
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\obj\Debug\netcoreapp2.1\CartApi.RazorAssemblyInfo.cache
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\obj\Debug\netcoreapp2.1\CartApi.RazorAssemblyInfo.cs
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\obj\Debug\netcoreapp2.1\CartApi.AssemblyInfoInputs.cache
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\obj\Debug\netcoreapp2.1\CartApi.AssemblyInfo.cs
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\obj\Debug\netcoreapp2.1\CartApi.RazorTargetAssemblyInfo.cache
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\bin\Debug\netcoreapp2.1\CartApi.pdb
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\obj\Debug\netcoreapp2.1\CartApi.dll
+D:\Sources\Home\ShoesOnContainers\src\services\CartApi\obj\Debug\netcoreapp2.1\CartApi.pdb

@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>aspnet-TokenServiceApi-FA5BC00C-B2A6-4A19-8204-3F09B86926E0</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Views\Account\AccessDenied.cshtml" />
+    <None Include="Views\Account\ConfirmEmail.cshtml" />
+    <None Include="Views\Account\ExternalLogin.cshtml" />
+    <None Include="Views\Account\ForgotPassword.cshtml" />
+    <None Include="Views\Account\ForgotPasswordConfirmation.cshtml" />
+    <None Include="Views\Account\Lockout.cshtml" />
+    <None Include="Views\Account\LoggedOut.cshtml" />
+    <None Include="Views\Account\Login.cshtml" />
+    <None Include="Views\Account\LoginWith2fa.cshtml" />
+    <None Include="Views\Account\LoginWithRecoveryCode.cshtml" />
+    <None Include="Views\Account\Logout.cshtml" />
+    <None Include="Views\Account\Register.cshtml" />
+    <None Include="Views\Account\ResetPassword.cshtml" />
+    <None Include="Views\Account\ResetPasswordConfirmation.cshtml" />
+    <None Include="Views\Account\SignedOut.cshtml" />
+    <None Include="Views\Consent\Index.cshtml" />
+    <None Include="Views\Consent\_ScopeListItem.cshtml" />
+    <None Include="Views\Grants\Index.cshtml" />
+    <None Include="Views\Home\About.cshtml" />
+    <None Include="Views\Home\Contact.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\Privacy.cshtml" />
+    <None Include="Views\Manage\ChangePassword.cshtml" />
+    <None Include="Views\Manage\Disable2fa.cshtml" />
+    <None Include="Views\Manage\EnableAuthenticator.cshtml" />
+    <None Include="Views\Manage\ExternalLogins.cshtml" />
+    <None Include="Views\Manage\GenerateRecoveryCodes.cshtml" />
+    <None Include="Views\Manage\Index.cshtml" />
+    <None Include="Views\Manage\ResetAuthenticator.cshtml" />
+    <None Include="Views\Manage\SetPassword.cshtml" />
+    <None Include="Views\Manage\TwoFactorAuthentication.cshtml" />
+    <None Include="Views\Manage\_Layout.cshtml" />
+    <None Include="Views\Manage\_ManageNav.cshtml" />
+    <None Include="Views\Manage\_StatusMessage.cshtml" />
+    <None Include="Views\Manage\_ViewImports.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\_CookieConsentPartial.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_LoginPartial.cshtml" />
+    <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IdentityServer4" Version="2.5.3" />
+    <PackageReference Include="IdentityServer4.AspNetIdentity" Version="2.5.3" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.deps.json
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.runtimeconfig.json
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.runtimeconfig.dev.json
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.dll
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.pdb
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.csproj.CoreCompileInputs.cache
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.RazorAssemblyInfo.cache
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.RazorAssemblyInfo.cs
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.AssemblyInfoInputs.cache
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.AssemblyInfo.cs
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.RazorTargetAssemblyInfo.cache
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.dll
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.pdb
+D:\Sources\Home\ShoesOnContainers\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.csprojAssemblyReference.cache
